@@ -1,2 +1,2 @@
 # hello-world
-using for initial github earning
+using for initial github learning
